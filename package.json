@@ -1,0 +1,15 @@
+{
+  "name": "contract-portal-chat-app",
+  "version": "1.0.0",
+  "description": "Chat app to communicate between contractor and recruiter",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Terence Coughlan",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.0",
+    "socket.io": "^2.2.0"
+  }
+}
